@@ -1,0 +1,5 @@
+Sound assets included from the user-provided keyboard.zip archive.
+The archive's config files identify the sound-pack author as "Mechvibes".
+These audio samples were provided by the user for integration into this personal project.
+Before publishing or redistributing this APK/source ZIP, verify that the sound-pack
+license permits redistribution and provide any attribution required by that license.
