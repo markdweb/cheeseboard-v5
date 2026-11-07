@@ -2,6 +2,7 @@ package com.colorgrid.keyboard
 
 import android.content.ClipData
 import android.content.ClipboardManager
+import android.content.Intent
 import android.inputmethodservice.InputMethodService
 import android.text.InputType
 import android.view.KeyEvent
